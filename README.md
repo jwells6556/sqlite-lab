@@ -82,3 +82,9 @@ Be sure to submit a pull request with your SQL queries and add a comment that in
 
 - [SQLite tutorial](http://www.tutorialspoint.com/sqlite/)
 - [SQLite official documentation](https://www.sqlite.org/docs.html)
+
+---
+
+## Licensing
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact [legal@ga.co](mailto:legal@ga.co).
